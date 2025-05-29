@@ -15,11 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## About me:
+Amine Kidane Ghebreziabiher received his Computer Engineering degree from Khalifa University of Science and Technology, Abu Dhabi, UAE, in 2024. He completed his research internship at New York University
+Abu Dhabi, in 2023. Currently, he is a Research Assistant at the KU 6G Research Center, Khalifa University.
+His research interests include large language models, 5G/6G wireless networks, vehicular networks, computer vision, and reinforcement learning.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amine-kidane) 
 
-# 📊 GitHub Stats:
+
+## 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=amew0&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=amew0&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
