@@ -20,13 +20,12 @@ Amine Kidane Ghebreziabiher received his Computer Engineering degree from Khalif
 Abu Dhabi, in 2023. Currently, he is a Research Assistant at the KU 6G Research Center, Khalifa University.
 His research interests include large language models, 5G/6G wireless networks, vehicular networks, computer vision, and reinforcement learning.
 
-## 🌐 Socials:
+<!-- ## 🌐 Socials: -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amine-kidane) 
 
-
-## 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=amew0&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=amew0&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<!-- ## 📊 GitHub Stats: -->
+<!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=amew0&theme=dark&hide_border=false)<br/> -->
+<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=amew0&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)-->
 
 ---
 [![](https://visitcount.itsvg.in/api?id=amew0&icon=0&color=0)](https://visitcount.itsvg.in)
