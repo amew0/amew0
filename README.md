@@ -1,4 +1,4 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 
 <!--
 **amew0/amew0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## About me:
+<!--  ## About me: -->
 Amine Kidane Ghebreziabiher received his Computer Engineering degree from Khalifa University of Science and Technology, Abu Dhabi, UAE, in 2024. He completed his research internship at New York University
 Abu Dhabi, in 2023. Currently, he is a Research Assistant at the KU 6G Research Center, Khalifa University.
 His research interests include large language models, 5G/6G wireless networks, vehicular networks, computer vision, and reinforcement learning.
