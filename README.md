@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <!--  ## About me: -->
 Amine Kidane Ghebreziabiher received his Computer Engineering degree from Khalifa University of Science and Technology, Abu Dhabi, UAE, in 2024. He completed his research internship at New York University
 Abu Dhabi, in 2023. Currently, he is a Research Assistant at the KU 6G Research Center, Khalifa University.
-His research interests include large language models, 5G/6G wireless networks, vehicular networks, computer vision, and reinforcement learning.
+His research interests include Applied AI, Agentic and Gen AI, Cyber Security, Network and Service Optimization targeting IoT and IoV, Cloud/Fog/Edge Computing, Vehicular and Mobile Networks, 5G/6G networks, vehicular networks, and reinforcement learning.
 
 <!-- ## 🌐 Socials: -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amine-kidane) 
